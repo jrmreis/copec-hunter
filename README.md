@@ -249,8 +249,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/copec-hunter/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/copec-hunter/discussions)
+- **Issues**: [GitHub Issues](https://github.com/jrmreis/copec-hunter/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/jrmreis/copec-hunter/discussions)
 
 ## 🏷️ Version History
 
